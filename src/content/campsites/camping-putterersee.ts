@@ -137,7 +137,7 @@ const campingPutterersee: CampsiteConfig = {
     tag: "Camping Putterersee",
     images: [
       { src: `${IMG}/pod-innen-kueche.webp`, alt: "Camping-Pod von innen mit Kochnische und Essplatz" },
-      { src: `${IMG}/sanitaer-dusche.webp`, alt: "Bodenebene Dusche im neuen Sanitärgebäude" },
+      { src: `${IMG}/sanitaer-kabine.webp`, alt: "Waschplatz in der privaten Mietbadekabine mit Waschbecken und Spiegelschrank" },
       { src: `${IMG}/waschhaus-innen.webp`, alt: "Moderner Waschraum im neuen Sanitärgebäude mit Doppelwaschbecken und WC-Kabinen" },
       { src: `${IMG}/pod-detail.webp`, alt: "Liebevolles Detail im Camping-Pod" },
     ],
