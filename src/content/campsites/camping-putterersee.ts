@@ -30,17 +30,17 @@ const campingPutterersee: CampsiteConfig = {
   pillars: [
     {
       title: "Direkt am Badesee",
-      text: "Der Platz liegt unmittelbar am Putterersee — dem wärmsten Alpenmoorsee der Steiermark. Baden, Badesteg und Seeblick gehören hier zum Alltag.",
+      text: "Der Platz liegt direkt am Putterersee — dem wärmsten Alpenmoorsee der Steiermark — mit eigenem Badesteg und Seeblick.",
       image: { src: `${IMG}/steg-putterersee.webp`, alt: "Holzsteg am Putterersee mit Blick auf die Berge" },
     },
     {
       title: "Stellplätze in der Wiese",
-      text: "Ebene Plätze auf der Wiese zwischen See und Bergen, mit Strom und viel Raum für Zelt, Wohnwagen und Wohnmobil — mittendrin im Ennstal.",
+      text: "Ebene Wiesen-Stellplätze mit Strom zwischen See und Bergen — viel Raum für Zelt, Wohnwagen und Wohnmobil.",
       image: { src: `${IMG}/wiese-stellplaetze.webp`, alt: "Blühende Wiese mit Stellplätzen am Putterersee vor Bergkulisse" },
     },
     {
       title: "Familienbetrieb Steiner",
-      text: "Familie Steiner führt den Platz persönlich und sorgt für die familiäre, freundliche Atmosphäre, wegen der viele Gäste Jahr für Jahr wiederkommen.",
+      text: "Familie Steiner führt den Platz persönlich — die herzliche Atmosphäre bringt viele Gäste Jahr für Jahr zurück.",
       image: { src: `${IMG}/familie-steiner.webp`, alt: "Familie Steiner, die Gastgeber des Camping Putterersee" },
     },
   ],
@@ -80,12 +80,12 @@ const campingPutterersee: CampsiteConfig = {
     features: [
       {
         title: "Moderne Camping-Pods",
-        text: "Zwei aus solidem Holz gebaute Pods sind eine gemütliche Alternative zu Zelt und Wohnwagen — mit Doppelbett, kleiner Kochnische und SAT-TV.",
+        text: "Zwei Holz-Pods als gemütliche Alternative zu Zelt und Wohnwagen — mit Doppelbett, Kochnische und SAT-TV.",
         image: { src: `${IMG}/camping-pods.webp`, alt: "Zwei moderne Camping-Pods aus Holz auf der Wiese vor Bergkulisse" },
       },
       {
         title: "Neues Sanitärgebäude",
-        text: "Pünktlich zum Saisonstart in Betrieb genommen: ein modernes Sanitär- und Waschgebäude, großzügig und gepflegt für alle Campinggäste.",
+        text: "Neu zum Saisonstart: ein modernes Sanitärgebäude, großzügig und gepflegt für alle Campinggäste.",
         image: { src: `${IMG}/sanitaergebaeude.webp`, alt: "Neues Sanitärgebäude aus Holz am Camping Putterersee" },
       },
       {
@@ -100,7 +100,7 @@ const campingPutterersee: CampsiteConfig = {
       },
       {
         title: "Ferienhaus für Familien",
-        text: "Das frisch renovierte Ferienhaus steht für deinen Urlaub bereit — viel Platz und Komfort für die ganze Familie, mitten in der Natur.",
+        text: "Das frisch renovierte Ferienhaus bietet viel Platz und Komfort für die ganze Familie mitten in der Natur.",
         image: { src: `${IMG}/ferienhaus.webp`, alt: "Frisch renoviertes Ferienhaus am Camping Putterersee" },
       },
       {
