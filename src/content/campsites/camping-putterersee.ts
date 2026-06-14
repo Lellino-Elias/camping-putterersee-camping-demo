@@ -79,6 +79,11 @@ const campingPutterersee: CampsiteConfig = {
       "Vom neuen Sanitärgebäude bis zur eigenen Mietbadekabine, von gemütlichen Camping-Pods bis zum Ferienhaus — hier findest du für jeden Urlaub die passende Ausstattung.",
     features: [
       {
+        title: "Moderne Camping-Pods",
+        text: "Zwei aus solidem Holz gebaute Pods sind eine gemütliche Alternative zu Zelt und Wohnwagen — mit Doppelbett, kleiner Kochnische und SAT-TV.",
+        image: { src: `${IMG}/camping-pods.webp`, alt: "Zwei moderne Camping-Pods aus Holz auf der Wiese vor Bergkulisse" },
+      },
+      {
         title: "Neues Sanitärgebäude",
         text: "Pünktlich zum Saisonstart in Betrieb genommen: ein modernes Sanitär- und Waschgebäude, großzügig und gepflegt für alle Campinggäste.",
         image: { src: `${IMG}/sanitaergebaeude.webp`, alt: "Neues Sanitärgebäude aus Holz am Camping Putterersee" },
@@ -87,11 +92,6 @@ const campingPutterersee: CampsiteConfig = {
         title: "Private Mietbadekabine",
         text: "Du mietest deine eigene Kabine mit Dusche, Waschgelegenheit und WC — Privatsphäre wie im eigenen Bad, schon ab € 9 pro Tag.",
         image: { src: `${IMG}/mietbadekabine.webp`, alt: "Private Mietbadekabine mit Dusche und Waschbecken" },
-      },
-      {
-        title: "Moderne Camping-Pods",
-        text: "Zwei aus solidem Holz gebaute Pods sind eine gemütliche Alternative zu Zelt und Wohnwagen — mit Doppelbett, kleiner Kochnische und SAT-TV.",
-        image: { src: `${IMG}/camping-pods.webp`, alt: "Zwei moderne Camping-Pods aus Holz auf der Wiese" },
       },
       {
         title: "Sonnige Terrasse am Pod",
